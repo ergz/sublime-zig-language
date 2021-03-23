@@ -1,6 +1,8 @@
 Zig Language
 ============
 
+**I modified this package since I think it contained way too much, this is much simpler**
+
 Syntax highlighting for [Zig](http://ziglang.org/).
 
 This repository serves both as the grammar for
